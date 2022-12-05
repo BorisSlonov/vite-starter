@@ -1,0 +1,2 @@
+# vite-starter
+ starter pack
